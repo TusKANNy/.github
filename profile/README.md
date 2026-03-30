@@ -6,4 +6,4 @@ A research ecosystem from Tuscany, Italy — [ISTI-CNR](https://www.isti.cnr.it)
 
 ---
 
-🌐 [tuskanny.com](https://tuskanny.com) &nbsp;·&nbsp; 📬 [info@tuskanny.com](mailto:info@tuskanny.com)
+🌐 [tuskanny.com](https://www.tuskanny.com) &nbsp;·&nbsp; 📬 [info@tuskanny.com](mailto:info@tuskanny.com)
