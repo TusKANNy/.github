@@ -1,4 +1,4 @@
-# TusKANNy
+# tusKANNy
 
 <p align="center">
   <img src="https://github.com/TusKANNy/.github/raw/main/profile/banner.png" alt="Banner" width="100%">
